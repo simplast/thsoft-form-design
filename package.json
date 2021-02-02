@@ -1,9 +1,8 @@
 {
-  "name": "@sscfaith/avue-form-design",
+  "name": "thsoft-form-design",
   "author": {
-    "name": "SSC",
-    "url": "https://github.com/sscfaith",
-    "email": "273702440@qq.com"
+    "name": "simplast",
+    "email": "840004959@qq.com"
   },
   "version": "1.4.2",
   "main": "lib/index.umd.min.js",
@@ -36,7 +35,7 @@
   ],
   "repository": {
     "type": "github",
-    "url": "https://github.com/sscfaith/avue-form-design"
+    "url": "https://github.com/simplast/thsoft-form-design.git"
   },
   "keywords": [
     "vue",
